@@ -1,2 +1,2 @@
 # library
-Beginner Data Science Project looking at my library.
+Beginner Data Science Project looking at my book shelf.
